@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "POC Test",
+"productVersion": "0.1",
+"dataUrl": "POC Test.data.unityweb",
+"wasmCodeUrl": "POC Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "POC Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
